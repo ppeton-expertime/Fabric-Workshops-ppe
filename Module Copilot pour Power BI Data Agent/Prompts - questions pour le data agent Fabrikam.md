@@ -2,7 +2,7 @@
 
 ## 1. Consultation simple
 
-> Quel est le chiffre d'affaires total réalisé cette année ?
+> Quel est le chiffre d'affaires total réalisé sur l'année 2024 ?
 
 ---
 
@@ -20,13 +20,13 @@
 
 ## 4. Analyse géographique
 
-> Quels sont les pays qui réalisent le plus de chiffre d'affaires et quelle est leur contribution au total des ventes ?
+> Quels sont les états qui réalisent le plus de chiffre d'affaires et quelle est leur contribution au total des ventes ?
 
 ---
 
 ## 5. Analyse clients
 
-> Quel segment de clients génère le plus de revenus : par tranche d'âge, génération ou affinité de marque ?
+> Quel segment de clients génère le plus de revenus : par démographie, géographie ou affinités ?
 
 ---
 
